@@ -40,9 +40,9 @@
    - Social/professional links (GitHub, LinkedIn, etc.)
 
 ## Design Guidelines
-- Color palette: [Define your color scheme]
-- Typography: [List primary and secondary fonts]
-- UI components: [Define consistent button styles, card designs, etc.]
+- Color palette: [ #A4A4BF, #16235A, #2A3457, #888C46, #F2EAED]
+- Typography: [Noto Sans Japanese, Effort]
+- UI components: [ consistent button styles, card designs ]
 
 ## Project Timeline
 - Design mockup: [Date]
