@@ -210,6 +210,7 @@ header {
 .project-img {
     height: 200px;
     background-color: var(--color-light-purple);
+		background-position: cneter;
     display: flex;
     align-items: center;
     justify-content: center;
