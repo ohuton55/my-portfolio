@@ -144,7 +144,7 @@ header {
 
 /* === Hero Section === */
 #hero {
-    height: 20vh;
+    height: 400px;
     display: flex;
     align-items: center;
     background-color: var(--color-dark-blue);
